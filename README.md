@@ -1,4 +1,5 @@
 # Language-Style-Transfer
+<img width="599" alt="image" src="https://github.com/kartikyagupta/Language-Style-Transfer/assets/120653940/64badb18-0eb2-4462-a9da-a7f8ea62918d">
 
 1. This repo contains the work I did for the partial fulfilment of my course NLP.
 2. A 24 Hour Challenge was organized by our professor. The task at hand was **Language Style Transfer**.
