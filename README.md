@@ -16,9 +16,10 @@ The main goals of the project were as follows:
    b) Formal to Humorous
 
 ### Methodology
-* Data Preparation: The initial phase involved thorough exploration and preprocessing of the provided dataset. This step was crucial to ensure the model's exposure to diverse language styles and contexts.
+##### Data Preparation
+The initial phase involved thorough exploration and preprocessing of the provided dataset. This step was crucial to ensure the model's exposure to diverse language styles and contexts.
 
-* Model Development: Two approaches were explored for language style transfer:
+##### Model Development: Two approaches were explored for language style transfer:
 
 1) GPT-2-based Model: Utilizing the pre-trained GPT-2 model to perform style transfer.
 2) Custom Model Implementation: A bespoke model designed to address the unique challenges posed by the dataset.
@@ -27,5 +28,5 @@ Code Organization The codebase is organized to maintain clarity and coherence. H
 ### Results
 The effectiveness of the models in achieving language style transfer is evaluated, and the results are presented in the respective sections. This project serves as a foundation for further exploration and improvements in the field of Language Style Transfer.
 
-# References:
+### References:
 1. [Srivastava, K., Text Style Transfer: A Comprehensive Study on Methodologies and Evaluation.](https://www.researchgate.net/profile/Nirali-Parekh-2/publication/356579852_Text_Style_Transfer_A_Comprehensive_Study_on_Methodologies_and_Evaluation/links/61a1e84b07be5f31b7ba89f2/Text-Style-Transfer-A-Comprehensive-Study-on-Methodologies-and-Evaluation.pdf)
