@@ -15,7 +15,7 @@ The main goals of the project were as follows:
    a) Formal to Casual
    b) Formal to Humorous
 
-3) Methodology
+### Methodology
 * Data Preparation: The initial phase involved thorough exploration and preprocessing of the provided dataset. This step was crucial to ensure the model's exposure to diverse language styles and contexts.
 
 * Model Development: Two approaches were explored for language style transfer:
